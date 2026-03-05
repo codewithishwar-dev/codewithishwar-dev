@@ -1,13 +1,19 @@
-# Hi 👋 I’m Ishwar
+# 👋 Hi, I'm Ishwar Chandra Tiwari
 
-I’m a software engineer with **12+ years of experience**
+Backend-focused Software Engineer with **12+ years of experience**  
 working across **frontend and backend systems**.
 
-### What I focus on
-- 🧠 Problem-solving mindset
-- 📊 Data Structures & Algorithms (thinking-first approach)
-- 🏗 System Design (real-world trade-offs)
-- 💻 Frontend & Backend fundamentals
+I share engineering insights publicly as **CodeWithIshwar**.
+
+---
+
+## 🧠 What I Focus On
+
+- Problem-solving mindset
+- Data Structures & Algorithms (thinking-first approach)
+- System Design and real-world trade-offs
+- Frontend & Backend fundamentals
+- Debugging real production problems
 
 > Most problems are not code problems.  
 > They are thinking problems.
@@ -16,12 +22,30 @@ working across **frontend and backend systems**.
 
 ---
 
-### What you’ll find here
+## 📚 What You'll Find Here
+
 - DSA problem-solving notes
 - System design breakdowns
-- Frontend & backend examples
+- JavaScript and backend examples
 - Real-world engineering learnings
+- Practical debugging insights
 
 ---
 
-📌 Sharing and learning publicly as **CodeWithIshwar**
+## 🚀 About CodeWithIshwar
+
+**CodeWithIshwar** is where I share practical lessons about:
+
+• DSA patterns  
+• Engineering thinking  
+• System design fundamentals  
+• Real-world debugging experiences
+
+The goal is simple:
+
+Help developers **think like strong engineers**, not just memorize solutions.
+
+---
+
+— **Ishwar Chandra Tiwari**  
+Creator of **CodeWithIshwar**
