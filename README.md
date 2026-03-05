@@ -50,3 +50,6 @@ Help developers **think like strong engineers**, not just memorize solutions.
 
 — **Ishwar Chandra Tiwari**  
 Creator of **CodeWithIshwar**
+
+Author: Ishwar Chandra Tiwari
+Brand: CodeWithIshwar
