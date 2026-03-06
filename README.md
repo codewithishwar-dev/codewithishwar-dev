@@ -34,6 +34,7 @@ I share engineering insights publicly as **CodeWithIshwar**.
 ---
 
 ## 🚀 About CodeWithIshwar
+# CodeWithIshwar
 
 **CodeWithIshwar** is where I share practical lessons about:
 
@@ -45,6 +46,7 @@ I share engineering insights publicly as **CodeWithIshwar**.
 The goal is simple:
 
 Help developers **think like strong engineers**, not just memorize solutions.
+by Ishwar Chandra Tiwari
 
 ---
 
@@ -54,3 +56,7 @@ Creator of **CodeWithIshwar**
 Author: Ishwar Chandra Tiwari
 
 Brand: CodeWithIshwar
+
+
+
+
