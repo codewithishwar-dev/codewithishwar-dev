@@ -1,62 +1,83 @@
-# 👋 Hi, I'm Ishwar Chandra Tiwari
-Ishwar Chandra Tiwari | CodeWithIshwar
+# Hi there 👋 I'm Ishwar Chandra Tiwari
 
-Backend-focused Software Engineer with **12+ years of experience**  
-working across **frontend and backend systems**.
+🚀 Software Developer | Problem Solving | System Design | Full Stack | AI for Developers
 
-I share engineering insights publicly as **CodeWithIshwar**.
+Welcome to my GitHub! I share solutions, engineering insights, and learning resources to help developers improve their problem-solving and software engineering skills.
 
 ---
 
 ## 🧠 What I Focus On
 
-- Problem-solving mindset
-- Data Structures & Algorithms (thinking-first approach)
-- System Design and real-world trade-offs
-- Frontend & Backend fundamentals
-- Debugging real production problems
-
-> Most problems are not code problems.  
-> They are thinking problems.
-
-**Think first. Code later.**
+- Data Structures & Algorithms
+- Problem Solving Patterns
+- System Design Thinking
+- Full Stack Development
+- JavaScript Async Patterns
+- AI Tools for Developers
 
 ---
 
-## 📚 What You'll Find Here
+## 📚 CodeWithIshwar
 
-- DSA problem-solving notes
-- System design breakdowns
-- JavaScript and backend examples
-- Real-world engineering learnings
-- Practical debugging insights
+I share developer insights through **CodeWithIshwar**, where I document learning from coding problems, software engineering concepts, and system design.
 
 ---
 
-## 🚀 About CodeWithIshwar
-# CodeWithIshwar
+## 🚀 Featured Repositories
 
-**CodeWithIshwar** is where I share practical lessons about:
+### 🔹 LeetCode Solutions
+Solutions to coding problems with explanations.
 
-• DSA patterns  
-• Engineering thinking  
-• System design fundamentals  
-• Real-world debugging experiences
-
-The goal is simple:
-
-Help developers **think like strong engineers**, not just memorize solutions.
-by Ishwar Chandra Tiwari
+👉 https://github.com/codewithishwar-dev/leetcode-solutions
 
 ---
 
-— **Ishwar Chandra Tiwari**  
-Creator of **CodeWithIshwar**
+### 🔹 DSA Patterns
+Common algorithmic patterns used to solve coding interview problems.
 
-Author: Ishwar Chandra Tiwari
+👉 https://github.com/codewithishwar-dev/dsa-patterns
 
-Brand: CodeWithIshwar
+---
 
+### 🔹 Problem Solving Notes
+Notes on developer thinking and problem-solving strategies.
 
+👉 https://github.com/codewithishwar-dev/problem-solving-notes
 
+---
 
+### 🔹 System Design Thinking
+Concepts and notes on building scalable systems.
+
+👉 https://github.com/codewithishwar-dev/system-design-thinking
+
+---
+
+### 🔹 JavaScript Async Patterns
+Practical examples of async programming patterns.
+
+👉 https://github.com/codewithishwar-dev/javascript-async-patterns
+
+---
+
+## 🌍 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/ishwar-chandra-tiwari-51610b26/)
+- GitHub: https://github.com/codewithishwar-dev
+
+---
+
+⭐ If you find these resources helpful, consider starring the repositories!
+---
+
+## Author
+
+**Ishwar Chandra Tiwari**  
+CodeWithIshwar
+
+Sharing insights on:
+- Problem Solving
+- Data Structures & Algorithms
+- System Design
+- Full Stack Development
+- AI for Developers
