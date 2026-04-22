@@ -10,7 +10,7 @@ Welcome to my GitHub! I share solutions, engineering insights, and learning reso
 
 - Data Structures & Algorithms
 - Problem Solving Patterns
-- System Design Thinking
+- System Design Thinking(LLD/HLD)
 - Full Stack Development
 - JavaScript Async Patterns
 - AI Tools for Developers
