@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ishwar Chandra Tiwari | Code With Ishwar 
 
-🚀 Software Developer | Problem Solving | System Design | Full Stack | AI for Developers
+🚀 Human | Software Developer | Problem Solving | System Design | Full Stack | AI for Developers 
 
 Welcome to my GitHub! I share solutions, engineering insights, and learning resources to help developers improve their problem-solving and software engineering skills.
 
