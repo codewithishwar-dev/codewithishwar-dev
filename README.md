@@ -13,6 +13,9 @@ Welcome to my GitHub! I share solutions, engineering insights, and learning reso
 - System Design Thinking(LLD/HLD)
 - Full Stack Development
 - AI Tools for Developers
+- Database & Caching
+- Cloud & DevOps
+- Distributed Systems & Scalability
 
 ---
 
