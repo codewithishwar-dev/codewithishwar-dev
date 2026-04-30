@@ -16,10 +16,11 @@ Welcome to my GitHub! I share solutions, engineering insights, and learning reso
 - Database & Caching
 - Cloud & DevOps
 - Distributed Systems & Scalability
+  
 
 ---
 
-## 📚 CodeWithIshwar
+## 📚 CodeWithIshwar | Ishwar Chandra Tiwari
 
 I share developer insights through **CodeWithIshwar**, where I document learning from coding problems, software engineering concepts, and system design.
 
