@@ -16,6 +16,7 @@ Welcome to my GitHub! I share solutions, engineering insights, and learning reso
 - Database & Caching
 - Cloud & DevOps
 - Distributed Systems & Scalability
+- Software Engineering Fundamentals (Clean Code, Design Principles & Testing)
   
 
 ---
