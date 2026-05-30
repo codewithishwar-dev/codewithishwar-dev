@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ishwar Chandra Tiwari | Code With Ishwar 
+# Hi there 👋 I'm Ishwar Chandra Tiwari | Code With Ishwar | CodeWithIshwar | codewithishwar | codewithishwar-dev
 
 🚀 Human | Software Developer | Problem Solving | System Design | Full Stack | AI for Developers 
 
