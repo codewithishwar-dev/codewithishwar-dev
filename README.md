@@ -76,8 +76,7 @@ Practical examples of async programming patterns.
 
 ## Author
 
-**Ishwar Chandra Tiwari**  
-CodeWithIshwar
+**Ishwar Chandra Tiwari**  | **CodeWithIshwar**
 
 Sharing insights on:
 - Problem Solving
