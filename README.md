@@ -8,15 +8,15 @@ Welcome to my GitHub! I share solutions, engineering insights, and learning reso
 
 ## 🧠 What I Focus On
 
-- Data Structures & Algorithms
-- Problem Solving Patterns
-- System Design Thinking(LLD/HLD)
-- Full Stack Development
-- AI Tools for Developers
-- Database & Caching
-- Cloud & DevOps
-- Distributed Systems & Scalability
-- Software Engineering Fundamentals (Clean Code, Design Principles & Testing)
+🧠 Data Structures & Algorithms (DSA)
+💡 Problem-Solving Patterns & Logical Thinking
+🏗️ System Design (LLD, HLD & Architecture)
+🌐 Modern Full-Stack Development
+🤖 AI Engineering & AI Tools for Developers
+🗄️ Database Design, Query Optimization & Caching
+☁️ Cloud Computing, DevOps & CI/CD
+⚡ Distributed Systems, Scalability & Performance
+📐 Software Engineering (Clean Code, SOLID, Design Patterns & Testing)
   
 
 ---
