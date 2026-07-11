@@ -81,6 +81,6 @@ Practical examples of async programming patterns.
 Sharing insights on:
 - Problem Solving
 - Data Structures & Algorithms
-- System Design
+- System Design(LLD & HLD)
 - Full Stack Development
 - AI for Developers
