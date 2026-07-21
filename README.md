@@ -9,13 +9,21 @@ Welcome to my GitHub! I share solutions, engineering insights, and learning reso
 ## 🧠 What I Focus On
 
 🧠 Data Structures & Algorithms (DSA)
+
 💡 Problem Solving, Algorithms & Computational Thinking
+
 🏗️ System Design (LLD, HLD & Software Architecture)
+
 🌐 Modern Full-Stack Development
+
 🤖 AI Engineering, LLMs & AI Tools for Developers
+
 🗄️ Database Design, SQL Optimization & Caching
+
 ☁️ Cloud Computing, DevOps & CI/CD
+
 ⚡ Distributed Systems, Scalability & Performance Engineering
+
 📐 Software Engineering (Clean Code, SOLID, Design Patterns & Testing)
   
 
