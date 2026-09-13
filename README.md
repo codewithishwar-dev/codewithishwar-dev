@@ -77,6 +77,7 @@ Practical examples of async programming patterns.
 - LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/ishwar-chandra-tiwari-51610b26/)
 - GitHub: https://github.com/codewithishwar-dev
 - Twitter: https://x.com/codewithishwar
+- Instagram: https://www.instagram.com/codewithishwar/
 
 ---
 
